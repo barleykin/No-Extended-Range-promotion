@@ -1,7 +1,7 @@
 {
 		"name": "Extended Range",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
-		"uniques": ["[0] Range"],
+		"uniques": ["[+0] Range"],
 		"unitTypes": [],
         "column": 3,
         "row": 3
